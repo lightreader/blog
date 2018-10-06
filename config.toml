@@ -15,7 +15,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description = "lightreader's Blog" # Description of your site
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "building my edge network"
+  navbarTitle          = "building lightreader"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/post/"
 
